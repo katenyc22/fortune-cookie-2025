@@ -21,8 +21,8 @@ const fortuneMessage = document.getElementById('fortuneMessage');
 const cookieImage = document.getElementById('cookieImage');
 
 // URLs for Closed and Opened Fortune Cookie Images
-const closedCookieURL = '/assets/images/fortune-cookie.png'; // Closed Fortune Cookie Image
-const openedCookieURL = '/assets/images/fortune-cookie-open.png'; // Opened Fortune Cookie Image
+const closedCookieURL = '../assets/images/fortune-cookie.png'; // Closed Fortune Cookie Image
+const openedCookieURL = '../assets/images/fortune-cookie-open.png'; // Opened Fortune Cookie Image
 
 // Function to Get a Unique Fortune
 function getUniqueFortune() {
