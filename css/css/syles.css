@@ -9,7 +9,7 @@
 body, html {
     height: 100%;
     font-family: 'Roboto', sans-serif;
-    background: url('/assets/images/sky-background.jpg') no-repeat center center fixed;
+    background: url('https://katenyc22.github.io/fortune-cookie-2025/assets/images/sky-background.jpg') no-repeat center center fixed;
     background-size: cover;
     display: flex;
     justify-content: center;
